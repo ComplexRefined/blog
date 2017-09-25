@@ -3,7 +3,7 @@ title: _complete
 header-img: img/sandback2.jpg
 email: info@complexrefined.com
 copyright_name: ComplexRefined Ltd
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "A place where ComplexRefined shares about learnings and ways to get in touch!"
 baseurl: ""
 url: "https://complexrefined.github.io/blog/"
 twitter_username: ComplexRefined
@@ -23,13 +23,5 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 plugins: [jekyll-paginate, jekyll-feed]
 
-lsi: false
-safe: true
-source: https://complexrefined.github.io/blog/
-incremental: false
+
 highlighter: rouge
-gist:
-noscript: false
-kramdown:
-math_engine: mathjax
-syntax_highlighter: rouge
