@@ -1,0 +1,29 @@
+// Mixins
+
+.transition-all() {
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.background-cover() {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.serif() {
+	// font-family: 'Source Serif Pro', serif;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sans-serif () {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.box-shadow (@string) {
+	-webkit-box-shadow: @string;
+	-moz-box-shadow:    @string;
+	box-shadow:         @string;
+}

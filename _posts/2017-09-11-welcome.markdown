@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "Welcome to ComplexRefined"
+subtitle:   "A space for the workings of the company ComplexRefined and discoveries from Dylan."
+date:       2017-09-11 12:00:00
+author:     "Dylan"
+header-img: "img/spacex-71870.jpg"
+category: beginnings
+tags: [start, beginning, startup]
+---
+
+
+
+
+<p>In the workings for the last little while finally I present a blog by ComplexRefined! This is a work in progress and aims to showcase what I do and what I am interested in. Specifically when it comes to software development and sharing my discoveries as I look for solutions in my day to day work.</p>
+
+
+
+<h2 class="section-heading">Beginnings</h2>
+
+<p>Looking into the future in the coming weeks and months I see that my role as a software developer will change considerably as the tools for getting companies and people online to showcase what they do become easier to use.</p>
+
+<p>
+I am however looking forward to the challenge. The challenge being that while there are so many tools available and various ways of solving common problems, in general we need to be wise in what to use as tools. One solution that claims to solve a problem will no doubt solve that problem however does that fit the purpose for which a user would be enticed to buy it for.
+</p>
+
+<p>
+Through experience, often times I have seen a brilliant software solution used for a problem that only partially exists where it is implemented. And the software is a pleasure to use it doesn't solve the true problems that people are dealing with. This is of course a generalisation but having seen the issue firsthand, I could see the waste of money spent on software that doesn't deal with the nucleus of a problem. As developers and business owners we need to create and use software that eases and assists very specific job roles and processes that exist. In so doing we streamline our business and walk in the direction of more efficiency and allowing our employees to have the time to do what they are really employed to do.
+</p>
+
+<blockquote>...we need to create and use software that eases and assists very specific job roles and processes that exist</blockquote>
+
+
+<h2 class="section-heading">Lets bring the right solutions</h2>
+
+<p>By being on various teams offering various software solutions I have been compelled in greater measures to help people understand what solutions they are buying into and help educate teams to best utilise the software they have in place. In unearthing the true purposes of various functions within a software solution with people, the goal of efficiency and correctness of data can be achieved within a company. It is this that I am extremely passionate about.</p>
+
+<p>If there is a software solution I can bring to help and aid people and companies in this situation it is considered a win for me!!</p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/teamwork.jpg" alt="Teamwork Image">
+</a>
+<span class="caption text-muted">Working WITH people FOR people.</span>
+
+<p>
+This is a new adventure for me, albeit from behind my desk. Please get in touch if you have suggestions or even questions that I may help with. My aim is to update the site regularly and showcase what ComplexRefined is working on. Whether I gather a team around me and share our journey or even if its something small I have personally been working on.
+</p>
+
+<p> Until next time! </p>
