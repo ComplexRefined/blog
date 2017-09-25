@@ -1,26 +1,24 @@
 # Site settings
-title: _complete
-header-img: img/sandback2.jpg
-email: info@complexrefined.com
-copyright_name: ComplexRefined Ltd
-description: "A place where ComplexRefined shares about learnings and ways to get in touch!"
-baseurl: "/blog"
-url: "https://complexrefined.github.io"
-twitter_username: ComplexRefined
-github_username:  ComplexRefined
-facebook_username:  ComplexRefined
-email_username:  info@complexrefined.com
+title:_complete
+header-img:img/sandback2.jpg
+email:info@complexrefined.com
+copyright_name:ComplexRefined Ltd
+description:"A place where ComplexRefined shares about learnings and ways to get in touch!"
+baseurl:"/blog"
+url:"https://complexrefined.github.io"
+twitter_username:ComplexRefined
+github_username:ComplexRefined
+facebook_username:ComplexRefined
+email_username:info@complexrefined.com
+markdown:kramdown
+highlighter:rouge
+permalink:pretty
+paginate:5
+exclude:["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins:-jekyll-paginate
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
 
 # Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-plugins:
-  - jekyll-paginate
