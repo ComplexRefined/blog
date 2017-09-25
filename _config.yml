@@ -17,9 +17,19 @@ email_username:  info@complexrefined.com
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 plugins: [jekyll-paginate, jekyll-feed]
+
+lsi: false
+safe: true
+source: https://complexrefined.github.io/blog/
+incremental: false
+highlighter: rouge
+gist:
+noscript: false
+kramdown:
+math_engine: mathjax
+syntax_highlighter: rouge
