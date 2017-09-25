@@ -4,8 +4,8 @@ header-img: img/sandback2.jpg
 email: info@complexrefined.com
 copyright_name: ComplexRefined Ltd
 description: "A place where ComplexRefined shares about learnings and ways to get in touch!"
-baseurl: "/blog"
-url: "https://complexrefined.github.io"
+baseurl: ""
+url: "https://complexrefined.github.io/blog"
 twitter_username: ComplexRefined
 github_username:  ComplexRefined
 facebook_username:  ComplexRefined
