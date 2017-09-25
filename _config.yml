@@ -5,7 +5,7 @@ email: info@complexrefined.com
 copyright_name: ComplexRefined Ltd
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://localhost:4000"
+url: "https://complexrefined.github.io/blog/"
 twitter_username: ComplexRefined
 github_username:  ComplexRefined
 facebook_username:  ComplexRefined
